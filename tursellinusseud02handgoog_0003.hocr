@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tursellinusseud02handgoog_0003.png"; bbox 0 0 967 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 264 801 544 912">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 264 801 544 912">
+     <span class='ocr_line' id='line_1_1' title="bbox 311 801 485 820; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 311 802 352 816; x_wconf 70' lang='lat' dir='ltr'>From</span> <span class='ocrx_word' id='word_1_2' title='bbox 363 801 389 816; x_wconf 62' lang='lat' dir='ltr'>ebe</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 801 458 820; x_wconf 62' lang='lat' dir='ltr'>&lt;ibrum</span> <span class='ocrx_word' id='word_1_4' title='bbox 468 801 485 816; x_wconf 65' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 290 829 505 843; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 290 829 344 843; x_wconf 78' lang='grc' dir='ltr'>ΡΗΙΗΡ</span> <span class='ocrx_word' id='word_1_6' title='bbox 354 829 433 843; x_wconf 55' lang='grc' dir='ltr'>ΧΝΗΑιΕΥ</span> <span class='ocrx_word' id='word_1_7' title='bbox 445 829 505 843; x_wconf 63' lang='grc' dir='ltr'>ΗΑῖέδΗ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 351 852 449 866; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 351 852 449 866; x_wconf 53' lang='grc'>19054960</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 264 874 544 889; baseline 0.004 -1"><span class='ocrx_word' id='word_1_9' title='bbox 264 874 333 889; x_wconf 71' lang='lat' dir='ltr'>rofessor</span> <span class='ocrx_word' id='word_1_10' title='bbox 342 874 358 889; x_wconf 62' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_11' title='bbox 367 874 435 889; x_wconf 56' lang='lat' dir='ltr'>cramus</span> <span class='ocrx_word' id='word_1_12' title='bbox 445 877 461 889; x_wconf 60' lang='grc' dir='ltr'>σν</span> <span class='ocrx_word' id='word_1_13' title='bbox 470 874 544 889; x_wconf 62' lang='lat' dir='ltr'>swaford</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 351 898 449 912; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 351 898 449 912; x_wconf 54' lang='lat'>1937-1900</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 82 724 1252">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 152 82 724 1252">
+     <span class='ocr_line' id='line_1_6' title="bbox 152 82 724 1252; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 152 82 724 1252; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
